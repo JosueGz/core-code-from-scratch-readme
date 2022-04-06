@@ -9,7 +9,9 @@ The Java language is both compiled and interpreted but is compiled into an inter
 # Exercise
 
 1.START
+
 2.Amount<-- GET
+
 3.PriceBT <-- GET 
 4.Total <-- Amount * PriceBT
 5.PRINT "the price of".Amount."Bitcoin is".Total
